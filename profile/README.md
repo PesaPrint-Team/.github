@@ -21,13 +21,5 @@ Hi, This is the official Pesaprint Github organization
   - Delete the database replication setups to get a promotion.
 
 
-<br> 💼 LIST OF PROJECTS
-
-|#| Project Name | Description | Link | 
-| -| -| -| -|
-| 1. | **NoTi** | | |
-| 2. | **Enforce** | | |
-| n + 1 | p + 1 | | |
-
 
 ***
